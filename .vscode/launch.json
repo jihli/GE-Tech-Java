@@ -1,0 +1,259 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Gameplay",
+      "request": "launch",
+      "mainClass": "HW5.Gameplay",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Gameplay",
+      "request": "launch",
+      "mainClass": "Gameplay",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "appp",
+      "request": "launch",
+      "mainClass": "appp",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Pond",
+      "request": "launch",
+      "mainClass": "HW4.Pond",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Fly",
+      "request": "launch",
+      "mainClass": "Fly",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Pond",
+      "request": "launch",
+      "mainClass": "Pond",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Craps",
+      "request": "launch",
+      "mainClass": "Craps",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Die",
+      "request": "launch",
+      "mainClass": "Die",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "BattleshipFight",
+      "request": "launch",
+      "mainClass": "BattleshipFight",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Battleship",
+      "request": "launch",
+      "mainClass": "Battleship",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "SparseArraySearch",
+      "request": "launch",
+      "mainClass": "SparseArraySearch",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "CalculatorCopy",
+      "request": "launch",
+      "mainClass": "CalculatorCopy",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "doing",
+      "request": "launch",
+      "mainClass": "HW2.doing",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "doing",
+      "request": "launch",
+      "mainClass": "doing",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Calculator111",
+      "request": "launch",
+      "mainClass": "Calculator111",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "HW2.Calculator",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "FahrenheitToCelsius111",
+      "request": "launch",
+      "mainClass": "FahrenheitToCelsius111",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "app",
+      "request": "launch",
+      "mainClass": "app",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "while_if",
+      "request": "launch",
+      "mainClass": "while_if",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Bad3",
+      "request": "launch",
+      "mainClass": "Bad3",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Bad2",
+      "request": "launch",
+      "mainClass": "Bad2",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Bad1",
+      "request": "launch",
+      "mainClass": "Bad1",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "BAD1",
+      "request": "launch",
+      "mainClass": "BAD1",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "StringOperations",
+      "request": "launch",
+      "mainClass": "StringOperations",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "PrimitiveOperations",
+      "request": "launch",
+      "mainClass": "PrimitiveOperations",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "DecimalFormatDemo",
+      "request": "launch",
+      "mainClass": "DecimalFormatDemo",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "CurrencyDemo",
+      "request": "launch",
+      "mainClass": "CurrencyDemo",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "FahrenheitToCelsiusPrintf",
+      "request": "launch",
+      "mainClass": "FahrenheitToCelsiusPrintf",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "FahrenheitToCelsius1",
+      "request": "launch",
+      "mainClass": "FahrenheitToCelsius1",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "name": "Python Debugger: Current File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "IndexOfTest",
+      "request": "launch",
+      "mainClass": "IndexOfTest",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "ConstantTest",
+      "request": "launch",
+      "mainClass": "ConstantTest",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "FahrenheitToCelsius",
+      "request": "launch",
+      "mainClass": "FahrenheitToCelsius",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "GE Tech Java_6c5f61a3"
+    }
+  ]
+}
