@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Pet",
+      "request": "launch",
+      "mainClass": "Pet",
+      "projectName": "GE Tech Java_6c5f61a3"
+    },
+    {
+      "type": "java",
       "name": "Gameplay",
       "request": "launch",
       "mainClass": "HW5.Gameplay",
