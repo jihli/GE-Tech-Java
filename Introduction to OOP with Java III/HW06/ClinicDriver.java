@@ -1,3 +1,4 @@
+package HW06;
 import java.io.FileNotFoundException;
 
 /**

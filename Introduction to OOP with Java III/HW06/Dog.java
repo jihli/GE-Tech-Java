@@ -1,3 +1,4 @@
+package HW06;
 /**
  * A Dog class that inherits traits from the Pet class
  */

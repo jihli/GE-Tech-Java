@@ -1,3 +1,4 @@
+package HW06;
 /**
  * An abstract class for a Pet visiting a Clinic.
  */

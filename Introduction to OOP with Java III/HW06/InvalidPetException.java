@@ -1,3 +1,4 @@
+package HW06;
 /**
  * An unchecked exception that is thrown when there is an invalid Pet
  * A pet is invalid if it is neither a Dog or a Cat
